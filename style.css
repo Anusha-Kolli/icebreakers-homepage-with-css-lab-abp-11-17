@@ -42,3 +42,6 @@ nav a:hover{
 main{
   margin-top:20px;
 }
+div.jumbotron{
+  border-radius: 5px;
+}
